@@ -1,0 +1,1 @@
+[{producto: "papas", precio: 200},{producto: "cebolla", precio: 250},{producto: "tomate", precio: 150}]
